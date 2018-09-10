@@ -1,5 +1,5 @@
 #include <iostream>
-#include "LinearSearch.h"
+#include "linearsearch.h"
 using edu::vcccd::vc::csv15::find;
 int main(int argc, char *argcv[]) {
 	int array[] = { 3, 1, 2 };
